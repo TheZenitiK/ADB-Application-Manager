@@ -9,7 +9,7 @@
 
 
 
-  
+                                                                                                                                                                                                                                             
 This script is designed to remove system applications on devices running Android using the ADB tool. It includes a database of system applications whose removal will not harm the system (however, please remember that you do this at your own risk). The script is suitable for various interfaces, such as MIUI, HyperOS, OriginOS, Realme UI, and ColorOS, as well as for removing Google apps and third-party applications that developers often pre-install on new devices. It is applicable to all Android devices.
     
 Instructions for Use
