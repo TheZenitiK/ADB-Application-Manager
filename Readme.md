@@ -8,16 +8,13 @@
 
 
 
-This script is designed to remove system applications on devices running Android using the ADB tool. It includes a database of system applications whose removal will not harm the system (however, please remember that you do this at your own risk). The script is suitable for various interfaces, such as MIUI, HyperOS, OriginOS, Realme UI, and ColorOS, as well as for removing Google apps and third-party applications that developers often pre-install on new devices. It is applicable to all Android devices.
-  
- 
-  
 
   
+This script is designed to remove system applications on devices running Android using the ADB tool. It includes a database of system applications whose removal will not harm the system (however, please remember that you do this at your own risk). The script is suitable for various interfaces, such as MIUI, HyperOS, OriginOS, Realme UI, and ColorOS, as well as for removing Google apps and third-party applications that developers often pre-install on new devices. It is applicable to all Android devices.
+    
 Instructions for Use
 
 To use the script, unpack the archive in a convenient location and run the file with a `.bat` extension. Connect your device, making sure to enable USB debugging in the Developer Options. You also need to allow your computer to debug on the phone.
 
 When you launch the script, press "Enter." If you see the green message **"Connected,"** your device is connected and ready to work. Now, using the numbers, select the desired options and applications to remove. If you accidentally deleted an unwanted application, you can restore it by pressing the **88** key and choosing the application for restoration. If you're unsure which application to restore, use option **99**, which will restore all deleted applications.
-
 Thank you for your trust!
